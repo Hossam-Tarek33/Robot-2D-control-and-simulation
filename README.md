@@ -7,3 +7,6 @@
 This repo contains a ROS package that simulates the control of a robot in a 2D-environment
 The package contains a publisher-node "Controller" and other node that works as a publisher and a subscriber at the same time "Robot".
 The controller node recieves the target position(s) as well the desired velocity(ies) from the used and publish them to the robot node. The robot node on the other side subscribes the data from the controller and publishes its current state simultaneously. 
+
+## Launch the package
+roslaunch robot_zal launch.launch
