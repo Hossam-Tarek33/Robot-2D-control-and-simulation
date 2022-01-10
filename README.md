@@ -1,6 +1,7 @@
 # Robot-2D-control-and-simulation
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/68400719/148759460-c329fdb2-83c4-4d86-99df-deb8bd23c232.gif)
-
+<p align="center">
+    <img src= "https://user-images.githubusercontent.com/68400719/148759460-c329fdb2-83c4-4d86-99df-deb8bd23c232.gif"/>
+</p>
 ## Overview
 <p align="center">
     <img src="https://user-images.githubusercontent.com/68400719/148756248-94311fa8-1d31-414e-b85a-387a8166607b.png"/>
