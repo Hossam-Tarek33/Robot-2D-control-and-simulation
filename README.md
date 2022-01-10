@@ -1,6 +1,6 @@
 # Robot-2D-control-and-simulation
 <p align="center">
-    <img src= "https://user-images.githubusercontent.com/68400719/148759460-c329fdb2-83c4-4d86-99df-deb8bd23c232.gif" width="4000"/>
+    <img src= "https://user-images.githubusercontent.com/68400719/148759460-c329fdb2-83c4-4d86-99df-deb8bd23c232.gif" width="3000"/>
 </p>
 This repo contains a ROS package that simulates the control of a robot in a 2D-environment
 
