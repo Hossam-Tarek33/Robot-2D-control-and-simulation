@@ -1,0 +1,4 @@
+<launch>
+    <node name="controller" pkg="robot_zal" type="controller.py" output="screen" launch-prefix="xterm -e"/>
+    <node name="robot" pkg="robot_zal" type= "robot.py" output="screen" />
+</launch>
